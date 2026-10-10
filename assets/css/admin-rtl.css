@@ -1,0 +1,12 @@
+/**
+ * RTL Admin Styles for WPCalibrate Gift Wrap
+ */
+@import url('admin.css');
+
+.wpcalibrate-settings-wrap {
+	direction: rtl;
+}
+
+.wpcalibrate-header {
+	text-align: right;
+}

@@ -1,0 +1,14 @@
+/**
+ * RTL Frontend Styles for WPCalibrate Gift Wrap
+ */
+@import url('frontend.css');
+
+.wpcalibrate-badge {
+	margin-inline-start: 0.5rem;
+	margin-inline-end: 0;
+}
+
+.wpcalibrate-style-card {
+	direction: rtl;
+	text-align: right;
+}

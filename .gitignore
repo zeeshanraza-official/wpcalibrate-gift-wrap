@@ -1,0 +1,26 @@
+# Development and AI Workspace Metadata
+.agents/
+.claude/
+.gemini/
+.idea/
+.vscode/
+
+# AI Planning & Tracking (Kept Local)
+CLAUDE.md
+PROJECT_MEMORY.md
+TROUBLESHOOTING.md
+CHANGELOG_AI.md
+TODO_AI.md
+AGENTS.md
+
+# Automated Tests & Deployment Scripts
+tests/
+scripts/
+
+# Local Build Outputs & Archives
+*.zip
+wpcalibrate-gift-wrap/
+scratch/
+Thumbs.db
+Desktop.ini
+.DS_Store
